@@ -1,4 +1,4 @@
- Create database and its Name.
+ -- Create database and its Name.
  create database rgm; 
 
  create table student(
